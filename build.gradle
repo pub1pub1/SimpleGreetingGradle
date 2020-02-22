@@ -1,9 +1,10 @@
-apply plugin: 'java'
-apply plugin: 'maven'
-
 plugins {
   id "org.sonarqube" version "2.7"
 }
+
+apply plugin: 'java'
+apply plugin: 'maven'
+
 
 group = 'com.simple'
 version = '1.0-SNAPSHOT'
