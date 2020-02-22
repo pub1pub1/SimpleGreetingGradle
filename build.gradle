@@ -22,6 +22,6 @@ repositories {
 }
 
 dependencies {
-    testImplementation 'junit:junit:4.11'
+    testImplementation 'junit:junit:4.12'
 }
 
