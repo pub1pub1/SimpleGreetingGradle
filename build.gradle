@@ -9,7 +9,7 @@ apply plugin: 'maven'
 group = 'com.simple'
 version = '1.0-SNAPSHOT'
 
-description = """SimpleGreeting"""
+description = """SimpleGreeting-Gradle"""
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
